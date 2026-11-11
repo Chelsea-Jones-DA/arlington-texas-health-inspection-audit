@@ -42,14 +42,14 @@ Instead of just mapping the numbers as they were, I used Power BI to execute a f
 1. **Audited the Raw Data:** Identified input errors, text typos in facility names, inconsistent date formats, blank score entries, and misaligned record values.
 2. **Sanitized in Power BI:** Cleaned dirty inputs, standardized facility classifications, stripped hidden text characters, and established repeatable transformation steps to fix the underlying data logic.
 3. **Documented the Audit:** Created a detailed Notepad audit log detailing every single error identified and the exact cleaning steps taken.
-4. **Interactive Exception Visualization:** *Building now — follow updates on my [Tableau Public Profile](tinyurl.com/Chelsea-Tableau)*
+4. **Interactive Exception Visualization:** *Building now — follow updates on my [Tableau Public Profile](https://public.tableau.com/app/profile/chelsea.jones6204/vizzes)*
    
 ## Project Files & Deliverables
 
 * [`Food_Establishments.csv`](Food_Establishments.csv) - Raw municipal export containing unstandardized fields and formatting exceptions.
 * [`Cleaned_Food_Establishments.pbix`](Cleaned_Food_Establishments.pbix) - Power BI file with full Power Query transformation pipeline.
 * [`Audit_Log_-_Food_Establishments.txt`](Audit_Log_-_Food_Establishments.txt) - Detailed Notepad log tracking all data hygiene rules and exceptions.
-* **Interactive Exception Dashboard:** *Building now — follow updates on my [Tableau Public Profile](tinyurl.com/Chelsea-Tableau)*
+* **Interactive Exception Dashboard:** *Building now — follow updates on my [Tableau Public Profile](https://public.tableau.com/app/profile/chelsea.jones6204/vizzes)*
 
 ---
 
