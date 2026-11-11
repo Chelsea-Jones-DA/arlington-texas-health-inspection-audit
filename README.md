@@ -50,3 +50,17 @@ Instead of just mapping the numbers as they were, I used Power BI to execute a f
 * [`Cleaned_Food_Establishments.pbix`](Cleaned_Food_Establishments.pbix) - Power BI file with full Power Query transformation pipeline.
 * [`Audit_Log_-_Food_Establishments.txt`](Audit_Log_-_Food_Establishments.txt) - Detailed Notepad log tracking all data hygiene rules and exceptions.
 * **Interactive Exception Dashboard:** *Building now — follow updates on my [Tableau Public Profile](tinyurl.com/Chelsea-Tableau)*
+
+---
+
+## Credentials & Resume
+
+* **Education:** Associate of Applied Science in Business Administration — Dallas College
+* **Coursework & Credentials:** Data Analytics Essentials (Cisco Networking Academy) | SQLBolt SQL Foundations
+* **Resume:** [View / Download Full Resume (PDF)](Chelsea_Jones_Resume.docx)
+
+---
+
+### Connect & Contact
+* **LinkedIn:** [(https://www.linkedin.com/in/chelseajones41/)]
+* **Email:** [(mrschelsea.jones41@gmail.com)]
