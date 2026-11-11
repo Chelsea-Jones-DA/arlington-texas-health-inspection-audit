@@ -1,5 +1,7 @@
 Audit Log - Food Establishments
 
+https://tinyurl.com/OriginalCSVFile    <--- Link to website where I found the original, unedited csv
+
 Removed errors on 1.2 x column.
 Removed Import Date column as it is unnecessary.
 Changed Inspection Score column type to text.
