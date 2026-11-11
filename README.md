@@ -3,14 +3,14 @@
 ## The Backstory
 
 <img src="Headshot.jpg" alt="Chelsea Jones" width="150" align="left" style="margin-right: 15px;">
-I spent over a decade running food safety, quality assurance, and operational compliance. My day-to-day job was centered around finding operational breakdowns, catching human error, and enforcing strict standards. 
+I spent over a decade running food safety, quality assurance, and operational compliance. My day-to-day job was centered around finding operational breakdowns, catching human error, and enforcing strict standards. I wanted to see if my instinct for quality control would translate into data analytics. 
+
+
 <br clear="left" />
 
+## The Spark: My First Data Visualization
 
 To bridge my background into digital tools, I took on volunteer IT support responsibilities—helping organize metric tracking, setting up operational workflows, and managing system tools.
-
-## The Spark: My First Data Visualization
-I wanted to see if my instinct for quality control would translate into data analytics. 
 
 I grabbed a raw public dataset containing over 3,800 municipal health inspection records from Arlington, Texas. Following step-by-step guidance from Gemini, I built my very first geographic visualization on Tableau Public. 
 
