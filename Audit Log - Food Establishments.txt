@@ -1,0 +1,16 @@
+Audit Log - Food Establishments
+
+Removed errors on 1.2 x column.
+Removed Import Date column as it is unnecessary.
+Changed Inspection Score column type to text.
+Filtered Inspection column to isolate empty rows (described as 'null') to confirm they were valid.
+Removed empty cells to make the dataset 100% Valid.
+Changed OBJECTID column type to text.
+Split Inspection column to remove the words 'Food Establishment' to reduce redundancy.
+Renamed Inspection column title to "Type of Inspection."
+Fixed capitalization errors on Facility Name column.
+Upper cased text on Property Address column.
+Trimmed entire table to remove any empty spaces (before or after cell contents).
+Sorted rows alphabetically by facility name.
+Added index and moved to front of table, replacing OBJECTID column.
+Added a column to show the day of the week each inspection was completed on.
